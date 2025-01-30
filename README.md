@@ -12,7 +12,7 @@ This notebook: `Creature_Image_Classification.ipynb` was used to train a creatur
 
 The dataset consists of `3997` images for **4 animal classes**. Here are some sample images from these four classes:
 
-![](./visuals/creature_classification_dataset_img.png?raw=true)
+![](./visuals/creature_classification_dataset_img-transformed.png?raw=true)
 
 The original dataset can be accessed on the [Kaggle Dataset: Animals-10](https://www.kaggle.com/datasets/alessiocorrado99/animals10) 
 ---
@@ -59,7 +59,7 @@ data_augmentation_pipeline = tf.keras.Sequential([
 
 ### Inferences:
 
-![](./visuals/creature_classification_inference.png?raw=true)
+![](./visuals/creature_classification_inference-transformed.png?raw=true)
 
 ---
 
