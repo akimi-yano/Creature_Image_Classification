@@ -4,8 +4,6 @@
 
 This project creates a machine learning model to classify multiple creatures' images into 4 categories: cow, elephant, horse, spider, using Tensorflow and Keras.
 
-This notebook: `Creature_Image_Classification.ipynb` was used to train a creature classification challenge held in Kaggle conducted by OpenCV University.
-
 ---
 
 ### Dataset Description:
